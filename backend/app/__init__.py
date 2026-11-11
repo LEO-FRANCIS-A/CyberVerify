@@ -1,0 +1,2 @@
+"""CyberVerify - AI-Powered Cybersecurity News Verification System"""
+__version__ = "1.0.0"
